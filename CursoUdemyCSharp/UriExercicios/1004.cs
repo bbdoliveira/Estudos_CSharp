@@ -6,14 +6,12 @@ namespace Template
     {
         static void Main(string[] args)
         {
-            int a, b, soma;
+            int a, b, prod;
+
             a = int.Parse(Console.ReadLine());
             b = int.Parse(Console.ReadLine());
-
-            soma = a + b;
-
-            Console.WriteLine("SOMA = " + soma);
-
+            prod = a * b;
+            Console.WriteLine("PROD = " + prod);
         }
     }
 }
