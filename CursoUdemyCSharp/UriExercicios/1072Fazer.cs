@@ -26,8 +26,8 @@ namespace Template
                     fora += 1;
                 }
             }
-            Console.WriteLine(dentro + "in");
-            Console.WriteLine(fora + "out");
+            Console.WriteLine(dentro + " in");
+            Console.WriteLine(fora + " out");
         }
     }
 }
