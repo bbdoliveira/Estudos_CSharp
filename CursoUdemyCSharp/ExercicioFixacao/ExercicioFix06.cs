@@ -1,6 +1,6 @@
 using System;
 
-namespace ExercicioFix02
+namespace ExercicioFix06
 {
     class Program
     {
