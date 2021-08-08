@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace Template
+namespace Exercicio01
 {
     class Program
     {
