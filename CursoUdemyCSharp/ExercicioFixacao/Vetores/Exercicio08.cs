@@ -42,7 +42,7 @@ namespace Exercicio08
             //Verifica o sexo para fazer media e contagem de homens.
             for (int i = 0; i < N; i++)
             {
-                if (sexo[i] == 'F')
+                if (sexo[i] == 'F')//Comparação de variáveis do tipo char usa aspa siples ('').
                 {
                     soma += altura[i];
                     count ++;
